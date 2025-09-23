@@ -18,11 +18,11 @@ Mathématiques pour l'Économie - Naïla Hayek, Jean-Pierre Leca
 
    **Mardi** :   9h20 - 10h50: salle 32 - Centre Vaugirard
    
-            10h55 - 12h25: salle 35 - Centre Vaugirard
+                10h55 - 12h25: salle 35 - Centre Vaugirard
             
-            17h15 - 18h45: salle 35 - Centre Vaugirard
+                17h15 - 18h45: salle 35 - Centre Vaugirard
             
-            18h50 - 20h20: salle 35 - Centre Vaugirard
+                18h50 - 20h20: salle 35 - Centre Vaugirard
 
 **Mercredi** :  15h40 - 17h10: salle 32 - Centre Vaugirard
 
@@ -42,7 +42,7 @@ On va avoir deux interros. Il faut aller aux interros dans la séance à laquell
 
 ## Révision
 
-Le cours suppose certaines sujets correspondant aux mathématiques de terminale, ou au programme du bac en mathématiques. Si vous avez besoin, vous pouvez chercher ce type de matériel pour étudier comme vous le souhaitez, et comparer ce que vous trouvez avec la feuille du TD1 afin de compléter les notions qui pourraient vous manquer. Lors d’une recherche rapide, j’ai trouvé le matériel suivant qui semble convenir : 
+Le cours suppose certaines sujets correspondant aux mathématiques de terminale, ou au programme du bac en mathématiques. Si vous avez besoin, vous pouvez chercher ce type de matériel pour étudier comme vous le souhaitez, et comparer ce que vous trouvez avec la feuille du TD1 afin de compléter les notions qui pourraient vous manquer. Lors d’une recherche rapide, j’ai trouvé le matériel suivant qui semble convenir: 
 
 [Fiches](https://coursmathsaix.fr/fiche-methode-maths-terminale/)
 
