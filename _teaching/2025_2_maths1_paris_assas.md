@@ -16,16 +16,20 @@ Mathématiques pour l'Économie - Naïla Hayek, Jean-Pierre Leca
 
 ## Séances
 
-   Mardi :   9h20 - 10h50: salle 32 - Centre Vaugirard
+   **Mardi** :   9h20 - 10h50: salle 32 - Centre Vaugirard
+   
             10h55 - 12h25: salle 35 - Centre Vaugirard
+            
             17h15 - 18h45: salle 35 - Centre Vaugirard
+            
             18h50 - 20h20: salle 35 - Centre Vaugirard
 
-Mercredi :  15h40 - 17h10: salle 32 - Centre Vaugirard
+**Mercredi** :  15h40 - 17h10: salle 32 - Centre Vaugirard
 
 ## Exercices
 
 [TD1](https://drive.google.com/file/d/1JxQQAFZPD4njPtMl8yRNE2Bc8CHnSTPS/view?usp=sharing) : 16-17/09 et 23-24/09
+
 [TD2](https://drive.google.com/file/d/1GJW8Cfv47OVgvCcp3a2P9Op3u4Ohdibz/view?usp=sharing) : 30/09-01/10 et 07-08/10
 
 ## Interros
@@ -33,6 +37,7 @@ Mercredi :  15h40 - 17h10: salle 32 - Centre Vaugirard
 On va avoir deux interros. Il faut aller aux interros dans la séance à laquelle vous êtes inscrit. Le sujet de chaque interro correspond aux exercices réalisés jusqu'à la semaine précédant l'interro.
 
 **21-22/10** : 1er interro
+
 **09-10/12** : 2ème interro
 
 ## Révision
