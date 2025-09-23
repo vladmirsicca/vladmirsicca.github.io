@@ -16,15 +16,19 @@ Mathématiques pour l'Économie - Naïla Hayek, Jean-Pierre Leca
 
 ## Séances
 
-   **Mardi** :   9h20 - 10h50: salle 32 - Centre Vaugirard
+**Mardi**
    
-                10h55 - 12h25: salle 35 - Centre Vaugirard
+ 9h20 - 10h50: salle 32 - Centre Vaugirard
+   
+10h55 - 12h25: salle 35 - Centre Vaugirard
             
-                17h15 - 18h45: salle 35 - Centre Vaugirard
+17h15 - 18h45: salle 35 - Centre Vaugirard
             
-                18h50 - 20h20: salle 35 - Centre Vaugirard
+18h50 - 20h20: salle 35 - Centre Vaugirard
 
-**Mercredi** :  15h40 - 17h10: salle 32 - Centre Vaugirard
+**Mercredi**
+
+15h40 - 17h10: salle 32 - Centre Vaugirard
 
 ## Exercices
 
