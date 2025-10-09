@@ -11,26 +11,23 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* PhD in Mathematics at McGill University, 2022 (Advisors: Gantumur Tsogtgerel and Jérôme Vétois)
+* Masters in Mathematics, University of Campinas (UNICAMP) (with a stay at Università degli Studi di Firenze), 2017 (Advisors: Alberto Saa and Ettore Minguzzi)
+* Bachelors in Mathematics, University of Campinas (UNICAMP), 2014
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* 09/2025-: ATER in Mathematics
+  * Université Paris Panthéon-Assas
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 05/2025-08/2025: Mathematics Consultant
+  * Harmonic, Palo Alto, USA (Remote)
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 05/2023-11/2024: Mathematics and AI Researcher
+  * Huawei's Lagrange Mathematics and Computing Research Center, Paris, France
+
+* 08/2022-12/2022: Content Creator in Mathematics
+  * Study Smarter, Munich, Germany (Remote)
   
 Skills
 ======
