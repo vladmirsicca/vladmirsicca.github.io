@@ -38,6 +38,8 @@ Mathématiques pour l'Économie - Naïla Hayek, Jean-Pierre Leca
 
 [TD3](https://drive.google.com/file/d/1wFFPLdibxp4RLj0izylB3e46vN7eoOx7/view?usp=sharing) : 13-14/10 et 20-21/10
 
+[TD4](https://drive.google.com/file/d/1n0FkEAkqlr3hRdd261t2wmoJa1UyNmNJ/view?usp=sharing) : 04-05/11 et 12/11
+
 ## Interros
 
 On va avoir deux interros. Il faut aller aux interros dans la séance à laquelle vous êtes inscrit. Le sujet de chaque interro correspond aux exercices réalisés jusqu'à la semaine précédant l'interro.
@@ -55,3 +57,7 @@ Le cours suppose certaines sujets correspondant aux mathématiques de terminale,
 [Exercices](https://www.annales2maths.com/exercices-ts/)
 
 Bien sûr, il y a plusiers options...
+
+## En plus
+
+[Video sur la convergence de la suite u_n = sin n](https://www.youtube.com/watch?v=9mo4u_FGvFw) (En anglais)
