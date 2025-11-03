@@ -48,6 +48,10 @@ On va avoir deux interros. Il faut aller aux interros dans la séance à laquell
 
 **09-10/12** : 2ème interro
 
+### Corrigés Interro 1
+
+[Mardi 9h20](https://drive.google.com/file/d/10N88ekm_0HHsbKVuclgtQwtrqjBD6SbN/view?usp=sharing) | [Mardi 10h55](https://drive.google.com/file/d/1MN2bU4eYcx5rGQGOgGlcojwVYYYbdyzc/view?usp=sharing) | [Mardi 17h15](https://drive.google.com/file/d/1mOLlEjy_ITrJNcN56PJC920bg5-Im87b/view?usp=sharing) | [Mardi 18h50](https://drive.google.com/file/d/1d9-aaIjIwBkj1JF73UrkHYvtgEC3VjKW/view?usp=sharing) | [Mercredi 15h40](https://drive.google.com/file/d/1DfmN-QwuB4fAIh1AkoU_dHoHArgzGwEN/view?usp=sharing)
+
 ## Révision
 
 Le cours suppose certaines sujets correspondant aux mathématiques de terminale, ou au programme du bac en mathématiques. Si vous avez besoin, vous pouvez chercher ce type de matériel pour étudier comme vous le souhaitez, et comparer ce que vous trouvez avec la feuille du TD1 afin de compléter les notions qui pourraient vous manquer. Lors d’une recherche rapide, j’ai trouvé le matériel suivant qui semble convenir: 
