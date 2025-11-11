@@ -38,7 +38,9 @@ Mathématiques pour l'Économie - Naïla Hayek, Jean-Pierre Leca
 
 [TD3](https://drive.google.com/file/d/1wFFPLdibxp4RLj0izylB3e46vN7eoOx7/view?usp=sharing) : 13-14/10 et 20-21/10
 
-[TD4](https://drive.google.com/file/d/1n0FkEAkqlr3hRdd261t2wmoJa1UyNmNJ/view?usp=sharing) : 04-05/11 et 12/11
+[TD4](https://drive.google.com/file/d/1n0FkEAkqlr3hRdd261t2wmoJa1UyNmNJ/view?usp=sharing) : 04-05/11 et Rattrapage-12/11
+
+[TD5](https://drive.google.com/file/d/1aKhIjJ3YW8C8mhiMA0C3Rm6v4DVdrULD/view?usp=sharing) : 18-19/11 et 25-26/11
 
 ## Interros
 
