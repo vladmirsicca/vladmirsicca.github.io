@@ -44,8 +44,6 @@ Mathématiques pour l'Économie - Naïla Hayek, Jean-Pierre Leca
 
 [TD6](https://drive.google.com/file/d/1PRv1tClJSEJP4R-Xi2OBthfwm-lkpO_w/view?usp=sharing) : 02-03/12 et 09-10/12
 
-Exercices extras d'intégrales (Mr. Yang's Teacher Website): [Si vous n’avez jamais travaillé avec les fonctions trigonométriques, vous ne pourrez pas tout faire, mais il y a tout de même beaucoup d’intégrales à calculer en général.](https://mryangteacher.weebly.com/uploads/7/7/0/2/7702250/5.2_5.5_integrals_classwork_practice_ws.pdf)
-
 ## Interros
 
 On va avoir deux interros. Il faut aller aux interros dans la séance à laquelle vous êtes inscrit. Le sujet de chaque interro correspond aux exercices réalisés jusqu'à la semaine précédant l'interro.
