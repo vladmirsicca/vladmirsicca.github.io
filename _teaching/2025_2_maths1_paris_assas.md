@@ -10,6 +10,8 @@ location: "Paris, France"
 
 Objectifs : Analyse, Fonctions numériques d’une variable réelle. Continuité, dérivation, optimisation, intégration.
 
+**Remarque :** Les fichiers seront disponibles ici jusqu’à la fin des examens du CM ; ils seront supprimés ensuite.
+
 ## Livre sugeré
 
 Mathématiques pour l'Économie - Naïla Hayek, Jean-Pierre Leca
@@ -55,6 +57,10 @@ On va avoir deux interros. Il faut aller aux interros dans la séance à laquell
 ### Corrigés Interro 1
 
 [Mardi 9h20](https://drive.google.com/file/d/10N88ekm_0HHsbKVuclgtQwtrqjBD6SbN/view?usp=sharing) | [Mardi 10h55](https://drive.google.com/file/d/1MN2bU4eYcx5rGQGOgGlcojwVYYYbdyzc/view?usp=sharing) | [Mardi 17h15](https://drive.google.com/file/d/1mOLlEjy_ITrJNcN56PJC920bg5-Im87b/view?usp=sharing) | [Mardi 18h50](https://drive.google.com/file/d/1d9-aaIjIwBkj1JF73UrkHYvtgEC3VjKW/view?usp=sharing) | [Mercredi 15h40](https://drive.google.com/file/d/1DfmN-QwuB4fAIh1AkoU_dHoHArgzGwEN/view?usp=sharing)
+
+### Corrigés Interro 2 (Les notes seront envoyées par courriel au cours de la semaine de vacances)
+
+[Mardi 9h20 - TD15](https://drive.google.com/file/d/1TkNIRfiTtWODaztN7XGHRtCNjXbDiCWg/view?usp=sharing) | [Mardi 10h55 - TD05](https://drive.google.com/file/d/12BUf5tfYawXcnLotPDdZF-vSoVUkaz9I/view?usp=sharing) | [Mardi 17h15 - TD06](https://drive.google.com/file/d/1buyDzJSflHXgzyJCWeiPWEIYavhk7HBW/view?usp=sharing) | [Mardi 18h50 - TD07](https://drive.google.com/file/d/1oes9Tyotyf3WUBXHQT9osXQ1mOQpnwK6/view?usp=sharing) | [Mercredi 15h40 - TD12](https://drive.google.com/file/d/1d4LnXhRT7-0QzRMTK4KSpwzaeByFnIkw/view?usp=sharing)
 
 ## Révision
 
