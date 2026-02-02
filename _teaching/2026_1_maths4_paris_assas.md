@@ -36,3 +36,20 @@ Mathématiques pour l'Économie - Naïla Hayek, Jean-Pierre Leca
 
 [TD1,2](https://drive.google.com/file/d/18fXhLuju4DXCFpl22eQgJORr0CBuVbRK/view?usp=sharing) : 26/01-06/02
 
+## Interros
+
+On va avoir deux interros. Il faut aller aux interros dans la séance à laquelle vous êtes inscrit. Le sujet de chaque interro correspond aux exercices réalisés jusqu'à la semaine précédant l'interro.
+
+**25-26/02** : 1er interro
+
+**15-16/04** : 2ème interro
+
+[Aperçu Interrogé 1](https://drive.google.com/file/d/1OXSoIMe1DrojjaYxEF5sXNNQt8-spNeR/view?usp=sharing)
+
+## "Est-ce qu'il faut apprendre des répresentations graphiques ?"
+
+Je lasse la réponse à Tristan Needham, dans la préface de son ouvrage "Visual Complex Analysis" (traduction française réalisé par ChatGPT ci-dessous) :
+
+[Original in English](https://drive.google.com/file/d/1j-5uInXTvMfPt9sK129K2OVXfnnLtjYE/view?usp=sharing)
+[Traduction française](https://drive.google.com/file/d/1PH4shlZCxh1tIc_uAhU2AR06uVj9EBpO/view?usp=sharing)
+
