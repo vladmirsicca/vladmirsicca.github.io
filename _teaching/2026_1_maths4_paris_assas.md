@@ -2,7 +2,7 @@
 title: "Maths 4 (TD) - Paris-Assas - 2026/1"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2025-2-maths1-paris-assas
+permalink: /teaching/2026-1-maths4-paris-assas
 venue: "Université Paris-Panthéon-Assas"
 date: 2026-01-01
 location: "Paris, France"
