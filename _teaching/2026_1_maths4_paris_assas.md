@@ -20,7 +20,7 @@ Mathématiques pour l'Économie - Naïla Hayek, Jean-Pierre Leca
    
 17h15 - 18h45 (TD 07)
    
-18h50 - 18h45 (TD 08)
+18h50 - 20h20 (TD 08)
 
 **Jeudi**
 
