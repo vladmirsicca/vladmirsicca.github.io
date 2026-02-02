@@ -51,5 +51,6 @@ On va avoir deux interros. Il faut aller aux interros dans la séance à laquell
 Je lasse la réponse à Tristan Needham, dans la préface de son ouvrage "Visual Complex Analysis" (traduction française réalisé par ChatGPT ci-dessous) :
 
 [Original in English](https://drive.google.com/file/d/1j-5uInXTvMfPt9sK129K2OVXfnnLtjYE/view?usp=sharing)
+
 [Traduction française](https://drive.google.com/file/d/1PH4shlZCxh1tIc_uAhU2AR06uVj9EBpO/view?usp=sharing)
 
