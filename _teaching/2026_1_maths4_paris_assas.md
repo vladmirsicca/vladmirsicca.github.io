@@ -36,6 +36,8 @@ Mathématiques pour l'Économie - Naïla Hayek, Jean-Pierre Leca
 
 [TD1,2](https://drive.google.com/file/d/18fXhLuju4DXCFpl22eQgJORr0CBuVbRK/view?usp=sharing) : 26/01-06/02
 
+[TD3,4,5](https://drive.google.com/file/d/1CIyVIH1ue3ii-etep9XZOJgqQ2V1KPYO/view?usp=sharing) : 11/02-26/02
+
 ## Interros
 
 On va avoir deux interros. Il faut aller aux interros dans la séance à laquelle vous êtes inscrit. Le sujet de chaque interro correspond aux exercices réalisés jusqu'à la semaine précédant l'interro.
