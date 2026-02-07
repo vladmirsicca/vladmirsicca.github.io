@@ -2,7 +2,7 @@
 title: "Newclid: A User-Friendly Replacement for AlphaGeometry"
 collection: preprints
 category: manuscripts
-permalink: /publication/newclid_user_friendle_replacement_for_alphageometry
+permalink: /publication/newclid_user_friendly_replacement_for_alphageometry
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2024-11-18
 venue: 'ArXiv'
