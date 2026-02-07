@@ -6,7 +6,6 @@ permalink: /publication/newclid_user_friendly_replacement_for_alphageometry
 excerpt: 'Description of the first release of Newclid and review of the functioning of AlphaGeometry 1.'
 date: 2024-11-18
 venue: 'ArXiv'
-slidesurl: ''
 paperurl: 'https://arxiv.org/abs/2411.11938'
 citation: 'Sicca, V., Xia, T., Fédérico, M., Gorinski, P.J., Frieder, S., & Jui, S. (2024). Newclid: A User-Friendly Replacement for AlphaGeometry. ArXiv, abs/2411.11938.'
 ---
