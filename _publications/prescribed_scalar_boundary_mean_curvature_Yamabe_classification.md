@@ -3,7 +3,7 @@ title: "A prescribed scalar and boundary mean curvature problem and the Yamabe c
 collection: published_papers
 category: manuscripts
 permalink: /publication/prescribed_scalar_boundary_mean_curvature_Yamabe_classification
-excerpt: 'Description of the first release of Newclid and review of the functioning of AlphaGeometry 1.'
+excerpt: 'Proof of a well-posedness result for the prescriptions of scalar curvature in the interior and mean curvature on the boundary of an asymptotically Euclidean manifold with compact boundary.'
 date: 2023-08-11
 venue: 'The Journal of Geometric Analysis'
 paperurl: 'https://link.springer.com/article/10.1007/s12220-023-01346-2'
