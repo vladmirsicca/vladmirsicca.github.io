@@ -41,6 +41,7 @@ Mathématiques pour l'Économie - Naïla Hayek, Jean-Pierre Leca
 ## Visualisation
 
 [TD1,2 - Exercice 4](https://drive.google.com/file/d/1dEL7WicK-0kqzqRfYOW47SfpXWApbCpk/view?usp=sharing)
+
 [TD1,2 - Exercice 7](https://drive.google.com/file/d/1bteLLu9uB_iFazPQqtsUJY-wlLeFiPuN/view?usp=sharing)
 
 ## Interros
