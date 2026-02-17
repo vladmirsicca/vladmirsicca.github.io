@@ -34,9 +34,14 @@ Mathématiques pour l'Économie - Naïla Hayek, Jean-Pierre Leca
 
 ## Exercices
 
-[TD1,2](https://drive.google.com/file/d/18fXhLuju4DXCFpl22eQgJORr0CBuVbRK/view?usp=sharing) : 26/01-06/02
+[TD1,2](https://drive.google.com/file/d/1SHbRQO4sEXFHd5ZZ-kxmQ_KesZBtV7Ml/view?usp=sharing) : 26/01-06/02
 
-[TD3,4,5](https://drive.google.com/file/d/1CIyVIH1ue3ii-etep9XZOJgqQ2V1KPYO/view?usp=sharing) : 11/02-26/02
+[TD3,4,5](https://drive.google.com/file/d/1ddU-K2so5R6_vHhKp9r58rOkg7I3kSub/view?usp=sharing) : 11/02-26/02
+
+## Visualisation
+
+[TD1,2 - Exercice 4](https://drive.google.com/file/d/1dEL7WicK-0kqzqRfYOW47SfpXWApbCpk/view?usp=sharing)
+[TD1,2 - Exercice 7](https://drive.google.com/file/d/1bteLLu9uB_iFazPQqtsUJY-wlLeFiPuN/view?usp=sharing)
 
 ## Interros
 
@@ -46,13 +51,13 @@ On va avoir deux interros. Il faut aller aux interros dans la séance à laquell
 
 **15-16/04** : 2ème interro
 
-[Aperçu Interrogé 1](https://drive.google.com/file/d/1OXSoIMe1DrojjaYxEF5sXNNQt8-spNeR/view?usp=sharing)
+[Aperçu Interrogé 1](https://drive.google.com/file/d/1zJRdCpyZY-SbMNpNW-HxDl5SqT7nI9Kh/view?usp=sharing)
 
 ## "Est-ce qu'il faut apprendre des répresentations graphiques ?"
 
 Je lasse la réponse à Tristan Needham, dans la préface de son ouvrage "Visual Complex Analysis" (traduction française réalisé par ChatGPT ci-dessous) :
 
-[Original in English](https://drive.google.com/file/d/1j-5uInXTvMfPt9sK129K2OVXfnnLtjYE/view?usp=sharing)
+[Original in English](https://drive.google.com/file/d/1IDde0khjhHuAI-TIzzstBU-Ogo4ZZbbv/view?usp=sharing)
 
-[Traduction française](https://drive.google.com/file/d/1PH4shlZCxh1tIc_uAhU2AR06uVj9EBpO/view?usp=sharing)
+[Traduction française](https://drive.google.com/file/d/1fiExAU34789hALfcpjoatIWCPAm36Gw0/view?usp=sharing)
 
