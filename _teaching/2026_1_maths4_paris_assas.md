@@ -38,6 +38,8 @@ Mathématiques pour l'Économie - Naïla Hayek, Jean-Pierre Leca
 
 [TD3,4,5](https://drive.google.com/file/d/1ddU-K2so5R6_vHhKp9r58rOkg7I3kSub/view?usp=sharing) : 11/02-26/02
 
+[TD6,7](https://drive.google.com/file/d/1lDYqyPY1uHHuf-88lkEAvtUay8v8bBLo/view?usp=sharing) : 11/03-19/03
+
 ## Visualisation
 
 [TD1,2 - Exercice 4](https://drive.google.com/file/d/1dEL7WicK-0kqzqRfYOW47SfpXWApbCpk/view?usp=sharing)
@@ -53,6 +55,12 @@ On va avoir deux interros. Il faut aller aux interros dans la séance à laquell
 **15-16/04** : 2ème interro
 
 [Aperçu Interrogé 1](https://drive.google.com/file/d/1zJRdCpyZY-SbMNpNW-HxDl5SqT7nI9Kh/view?usp=sharing)
+
+### Corrigés Interro 1
+
+[TD07](https://drive.google.com/file/d/1z-wTVAkCuYXR1Dv-rukV5onm1jV4Xw1m/view?usp=sharing) | [TD08](https://drive.google.com/file/d/1JqZufzfFFu0EgPln-MF5by6JvwNIkDRR/view?usp=sharing) | [TD09](https://drive.google.com/file/d/1yphrCljFvp81J_NGtNUDa9CRxB4yVhki/view?usp=sharing) | [TD10](https://drive.google.com/file/d/1LrP8IF2JIg7_E7_eeIjTmzO5MbmmaXwl/view?usp=sharing) | [TD11](https://drive.google.com/file/d/1mzw7FvT-yBlHVNLBbcNeoiSAwJE-_e7N/view?usp=sharing) | [TD12](https://drive.google.com/file/d/1ldN-Z09g9JYH3U-rluNeFORBs67NatCA/view?usp=sharing)
+
+[Mon assistante est en train de ralentir les corrections, mais elle me demande de vous donner des notes plus généreuses.](https://drive.google.com/file/d/14JBAiuY90uzecMW_84gAQN6UtHNvGNTa/view?usp=sharing)
 
 ## "Est-ce qu'il faut apprendre des répresentations graphiques ?"
 
