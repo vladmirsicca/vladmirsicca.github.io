@@ -40,6 +40,8 @@ Mathématiques pour l'Économie - Naïla Hayek, Jean-Pierre Leca
 
 [TD6,7](https://drive.google.com/file/d/1lDYqyPY1uHHuf-88lkEAvtUay8v8bBLo/view?usp=sharing) : 11/03-19/03
 
+[TD8,9](https://drive.google.com/file/d/1SBDMpOnKEYYeU6IMPkFevbpGolHK-NQ8/view?usp=sharing) : 25/03-02/04
+
 ## Visualisation
 
 [TD1,2 - Exercice 4](https://drive.google.com/file/d/1dEL7WicK-0kqzqRfYOW47SfpXWApbCpk/view?usp=sharing)
