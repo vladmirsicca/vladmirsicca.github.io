@@ -8,7 +8,11 @@ date: 2026-01-01
 location: "Paris, France"
 ---
 
-Objectifs : Ce cours prolonge le cours Mathématiques 3 du premier semestre. Il traite de valeurs propres et vecteurs propres d'une matrice, de diagonalisation d'une matrice, de formes quadratiques. En un deuxième temps les séries numériques puis les équations de récurrence linéaires et  les  équations différentielles linéaires sont étudiées.
+## Rattrapage Interro 2 : Le rattrapage pour ces qu'on mis le deuxième contrôle continu aura lieu le mardi 21/04 à 10h00 à la salle 403 du centre d'Assas.
+
+
+
+**Objectifs :** Ce cours prolonge le cours Mathématiques 3 du premier semestre. Il traite de valeurs propres et vecteurs propres d'une matrice, de diagonalisation d'une matrice, de formes quadratiques. En un deuxième temps les séries numériques puis les équations de récurrence linéaires et  les  équations différentielles linéaires sont étudiées.
 
 ## Livre sugeré
 
