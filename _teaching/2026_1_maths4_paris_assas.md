@@ -70,6 +70,10 @@ On va avoir deux interros. Il faut aller aux interros dans la séance à laquell
 
 [Mon assistante est en train de ralentir les corrections, mais elle me demande de vous donner des notes plus généreuses.](https://drive.google.com/file/d/14JBAiuY90uzecMW_84gAQN6UtHNvGNTa/view?usp=sharing)
 
+### Corrigés Interro 2
+
+[TD08](https://drive.google.com/file/d/1o1IvtFYHKX-nfm7Ei1TfaknGgyqdd4mz/view?usp=sharing) | [TD09](https://drive.google.com/file/d/1NDBo2kOarbkhlvhSzFGS9mUSQj0IVpmp/view?usp=sharing) | [TD10](https://drive.google.com/file/d/1qnCKvtmxa1C2u_4keRoAH1_Mmm9Rg_yl/view?usp=sharing) | [TD11](https://drive.google.com/file/d/1Pktcj4qhtVY7SdEkEZsiE3MZiwUsWtOY/view?usp=sharing) | [TD12](https://drive.google.com/file/d/1biW-fr-TRzoYjTty8gA5Gheqs7EtQegZ/view?usp=sharing) | [Rattrapage](https://drive.google.com/file/d/1Db54zPeG4zC58fZ22wmxyjI_M7rE2zJz/view?usp=sharing)
+
 ## "Est-ce qu'il faut apprendre des répresentations graphiques ?"
 
 Je lasse la réponse à Tristan Needham, dans la préface de son ouvrage "Visual Complex Analysis" (traduction française réalisé par ChatGPT ci-dessous) :
