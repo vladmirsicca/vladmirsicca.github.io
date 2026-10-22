@@ -60,3 +60,5 @@ On va avoir deux interros. Il faut aller aux interros dans la séance à laquell
 **09/10/2026:** [Exercices extras](https://drive.google.com/file/d/1FYUW1eiVlF7_djGvNjnbtEYwttwudlbi/view?usp=sharing) | [Surface](https://drive.google.com/file/d/1smjH3PtO3NCnxAyeorUn4-N7iHuO1pA0/view?usp=sharing) : Réponse (b)
 
 **16/10/2026:** [Exercices extras](https://drive.google.com/file/d/1XXPTJEasH_XFIkyxbkQU938yba1C4KuS/view?usp=sharing) | [Surface](https://drive.google.com/file/d/1dtLhQggXtu9KM-L44hQkNsOOh7PB6YL8/view?usp=sharing)
+
+**23/10/2026:** [Exercices extras](https://drive.google.com/file/d/10LTPsBHl27tZ8MIPav7WePsOAdLYfLQp/view?usp=drive_link) | [Surface](https://drive.google.com/file/d/1Vn8emPU9XsHQpyJbtjOPBkKz5RWNFF9z/view?usp=drive_link)
