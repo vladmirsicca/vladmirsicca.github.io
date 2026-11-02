@@ -32,6 +32,16 @@ Mathématiques pour l'Économie - Naïla Hayek, Jean-Pierre Leca
 
 12h30 - 14h00 (TD 14): salle 404 - Centre Assas
 
+**Rattrapage du 11/11**
+
+Groupe TD01 : Mardi 10/11 - 14h05-15h35 - Salle 405 - Centre Assas
+
+Groupe TD02 : Lundi 09/11 - 14h05-15h35 - Salle 609 - Centre Assas
+
+Groupe TD03 : Jeudi 12/11 - 18h50-20h20 - Salle 405 - Centre Assas
+
+Groupe TD15 : Jeudi 12/11 - 15h40-17h10 - Salle 405 - Centre Assas
+
 ## Exercices
 
 [TD1](https://drive.google.com/file/d/1AuLqH4jfVPkL5bLtvsB_wL_pfgh3QKsM/view?usp=sharing) : 23-25/09 au 07-09/10
