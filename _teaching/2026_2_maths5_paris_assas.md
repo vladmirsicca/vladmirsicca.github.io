@@ -61,6 +61,10 @@ On va avoir deux interros. Il faut aller aux interros dans la séance à laquell
 
 **09/12** : 2ème interro
 
+### Corrigés Interro 1
+
+[TD01](https://drive.google.com/file/d/1saqrHkqhCQvXcD_egmuzrDoFxpCubmdd/view?usp=sharing) | [TD02](https://drive.google.com/file/d/19VBfoRMzu9_7l5SGXgyR8YV4KWGbI8lH/view?usp=sharing) | [TD03](https://drive.google.com/file/d/1DXLkyfYbhd4sgJlAD_XfgBEgDyNzbJC6/view?usp=sharing) | [TD14](https://drive.google.com/file/d/1S_dNifFTyJ70LCWkGJ3tPtX8OFJuYO0J/view?usp=sharing) | [TD15](https://drive.google.com/file/d/1GJXHR7kFkSbKkeAT2Blcq_23BO6aigAN/view?usp=drive_link)
+
 ## Exercices Extras
 
 **25/09/2026:** [Exercices extras](https://drive.google.com/file/d/1Xtooh6cUF8dPsmvi3o4Gh6ZnGQYq0zVk/view?usp=sharing) | [Surface](https://drive.google.com/file/d/1-6043RmcSb2uYczDEV9zzwk0xDxCw6Dp/view?usp=sharing) : Réponse (d)
