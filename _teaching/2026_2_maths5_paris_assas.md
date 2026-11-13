@@ -77,4 +77,6 @@ On va avoir deux interros. Il faut aller aux interros dans la séance à laquell
 
 **23/10/2026:** [Exercices extras](https://drive.google.com/file/d/10LTPsBHl27tZ8MIPav7WePsOAdLYfLQp/view?usp=drive_link) | [Surface](https://drive.google.com/file/d/1Vn8emPU9XsHQpyJbtjOPBkKz5RWNFF9z/view?usp=drive_link) : Réponse (a)
 
-**06/11/2026:** [Exercices extras](https://drive.google.com/file/d/1ah79FuQiBqzEv33dY8cG2oqH9n0zdAlV/view?usp=drive_link) | [Surface](https://drive.google.com/file/d/1kuqKP4X-vhhJVwL4eP4Lp30m7sCG8B_h/view?usp=drive_link)
+**06/11/2026:** [Exercices extras](https://drive.google.com/file/d/1ah79FuQiBqzEv33dY8cG2oqH9n0zdAlV/view?usp=drive_link) | [Surface](https://drive.google.com/file/d/1kuqKP4X-vhhJVwL4eP4Lp30m7sCG8B_h/view?usp=drive_link) : Réponse (d)
+
+**13/11/2026:** [Exercices extras](https://drive.google.com/file/d/1OJX30eHv2eAzWrdtnzFhopwpaoe1fJT0/view?usp=sharing) | [Surface](https://drive.google.com/file/d/1mbdcgeLrCMgEEGBPDtpmoV1d0blDyIcm/view?usp=sharing)
